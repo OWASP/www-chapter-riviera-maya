@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Riviera Maya
-tags: riviera maya, owasp riviera, owasp latam tour mexico
+tags: owasp riviera maya
 level: 0
 
 region: Latin America
