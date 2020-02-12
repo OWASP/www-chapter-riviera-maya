@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Sponsors
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: owasp riviera maya sponsors
 ---
 
-## Example
+## Sponsors
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
