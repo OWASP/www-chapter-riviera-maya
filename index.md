@@ -17,5 +17,3 @@ Todos son bienvenidos a participar y nuestros materiales y eventos serán siempr
 
 ## Local News
 - OWASP LATAM Tour 2020 coming soon... Follow us on our social networks
-
-{leaders.md}
