@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Riviera Maya
-tags: owasp riviera, owasp riviera maya, riviera maya, owasp cancun, owasp cozumel
+tags: community, mentorship, governance, study, training, meetings, podcasts, committees, sponsors
 level: 0
 region: North America
 
