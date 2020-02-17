@@ -1,8 +1,8 @@
 ---
 
-layout: col-sidebar
+layout: null
 title: OWASP Riviera Maya
-tags: community, mentorship, governance, study, training, meetings, podcasts, committees, sponsors
+tags: community, sponsors
 level: 0
 region: North America
 
