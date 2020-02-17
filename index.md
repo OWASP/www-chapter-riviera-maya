@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP-Riviera-Maya
-tags: owasp riviera, owasp riviera maya, riviera maya, owasp cancun, owasp cozumel
+title: OWASP Riviera Maya
+tags: community
 level: 0
 region: North America
 
