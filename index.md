@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Riviera Maya
-tags: sponsors, eventos
+tags: sponsors, eventos, anuncios
 region: North America
 
 ---
