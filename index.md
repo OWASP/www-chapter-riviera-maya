@@ -15,29 +15,28 @@ This is the website of the Mayan Riviera OWASP Chapter.
 
 Chapter Sponsors
 ----------------
-The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
-<a href="https://www.veracode.com"><img src="assets/images/VeraCode_logo.png" alt="Veracode"/></a>
+<a href="https://www..com"><img src="assets/images/VeraCode_logo.png" alt="Google"/></a>
 
 </td>
 <td>
 
-<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="ThougthWorks"/></a>
+<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="Websec"/></a>
 
 </td>
 <td>
-  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="IEDigital"/></a>
+  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="Scitum"/></a>
 
 
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="NetSparker_Logo"/></a>
+  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="Pricetravel"/></a>
 
 </td>
 <td>
