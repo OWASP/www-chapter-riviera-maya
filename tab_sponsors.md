@@ -3,7 +3,7 @@ title: Sponsors
 layout:  null
 tab: true
 order: 1
-tags: owasp riviera maya sponsors
+tags: sponsors
 ---
 
 ## Sponsors
