@@ -1,6 +1,6 @@
 ### OWASP LATAM Tour 2020 Mexico
-* [Sitio web](https://owasp-latam-tour.com/mexico/)
+* [OWASP LATAM Tour 2020 Mexico](https://owasp-latam-tour.com/mexico/)
 
-### Social Links
+### OWASP Riviera Maya on Social Media
 * [Twitter](https://twitter.com/owasp_riviera)
 * [Facebook](https://www.facebook.com/OwaspRivieraMaya/)
