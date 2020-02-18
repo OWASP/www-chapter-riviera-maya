@@ -48,43 +48,5 @@ Chapter Sponsors
 
 </td>
 </tr>
-<tr>
-<td>
-<img src="assets/images/KiuwanLogoSmall.png" alt="KiuwanLogoSmall.png"/>
-
-</td>
-<td>
-<img src="assets/images/HackerOneLogo.png" alt="HackerOneLogo.png"/>
-
-</td>
-<td>
-<a href="https://www.immuniweb.com"><img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/></a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://www.oxfordwebapps.co.uk"><img src="assets/images/OxfordWebAppsLogo2.png" alt="OxfordWebAppsLogo2.png"/></a>
-</td>
-<td>
-<a href="https://www.facebook.com"><img src="assets/images/FacebookLogoBlue.png" alt="FacebookLogoBlue.png"/></a>
-</td>
-<td>
-<a href="https://www.avatao.com"><img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/></a>
-</td>  
-</tr>
-
-<tr>
-  <td>
-   <a href="https://www.apriorit.com"><img src="assets/images/AprioritLogo.png" alt="AprioritLogo"/></a>
-  </td>
-  <td>
-    <a href="https://www.occamsec.com"><img src="assets/images/OccamSecLogo.jpg" alt="OccamSecLogo"/></a>
-  </td>
-   <td>
-      &nbsp;
-    </td>
-
-</tr>
 </table>
 
