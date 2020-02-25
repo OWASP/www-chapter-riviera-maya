@@ -21,7 +21,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 </td>
 <td>
 
-<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="Websec"/></a>
+<a href="https://www.websec.mx"><img src="assets/images/sponsors/2017/logo_websec.png" alt="Websec"/></a>
 
 </td>
 <td>
