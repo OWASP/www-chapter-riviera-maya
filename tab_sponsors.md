@@ -65,7 +65,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
   <a href="https://www.cyberopsec.com.mx/"><img src="assets/images/sponsors/2017/logo_cyberopsec.PNG" alt="Cyber OPSEC"/></a>
 </td>
 <td width="30%">
-  <a href="https://papajohns.com.mx/home"><img src="assets/images/sponsors/2017/logo_papajohns.PNG" alt="Papa Johns"/></a>
+  <a href="https://papajohns.com.mx/home"><img src="assets/images/sponsors/2017/logo_papajohns.png" alt="Papa Johns"/></a>
 </td>
 </tr>
 
