@@ -16,7 +16,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 <tr>
 <td width="30%">
 
-<a href="https://www.google.com"><img src="assets/images/sponsors/2017/logo_google.png" alt="Google"/></a>
+<a href="https://www.fortinet.com"><img src="assets/images/sponsors/2017/logo_fortinet.png" alt="Fortinet"/></a>
 
 </td>
 <td width="30%">
@@ -31,28 +31,52 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 </td>
 </tr>
 <tr>
-<td>
-  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="Pricetravel"/></a>
+<td width="30%">
+  <a href="https://www.ohkasystems.com/"><img src="assets/images/sponsors/2017/logo_ohka.png" alt="Ohka Systems"/></a>
 
 </td>
-<td>
-<img src="assets/images/GDS_LOGO_SMALL.jpg" alt=""/>
+<td width="30%">
+  <a href="https://purplesec.com/"><img src="assets/images/sponsors/2017/logo_purplesec.png" alt="Purple Security"/></a>
+</td>
+<td width="30%">
+  <a href="https://protektnet.com/"><img src="assets/images/sponsors/2017/logo_protektnet.jpg" alt="Protektnet"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+  <a href="#"><img src="assets/images/sponsors/2017/logo_tropicode.PNG" alt="Tropicode"/></a>
 
 </td>
-<td>
-<img src="assets/images/Synack_Logo.jpg" alt="Synack Logo"/>
+<td width="30%">
+  <a href="http://www.techgarage.mx/"><img src="assets/images/sponsors/2017/logo_techgarage.png" alt="Tech Garage"/></a>
+</td>
+<td width="30%">
+  <a href="https://www.pricetravel.com/"><img src="assets/images/sponsors/2017/logo_pricetravel.jpg" alt="Pricetravel"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+  <a href="#"><img src="assets/images/sponsors/2017/logo_optimiti.png" alt="Optimiti Networks"/></a>
+
+</td>
+<td width="30%">
+  <a href="https://www.cyberopsec.com.mx/"><img src="assets/images/sponsors/2017/logo_cyberopsec.PNG" alt="Cyber OPSEC"/></a>
+</td>
+<td width="30%">
+  <a href="https://papajohns.com.mx/home"><img src="assets/images/sponsors/2017/logo_papajohns.PNG" alt="Papa Johns"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+  <a href="https://www.bugcon.org/"><img src="assets/images/sponsors/2017/logo_bugcon.png" alt="BUGCON"/></a>
 
 </td>
 </tr>
 </table>
 
-
-![](Logo_websec.jpg) ![](1024px-TheHomeDepot.svg.png)
-![](Fortinet_Logo_300ppi.png) ![](Ohka_logo.png)
-![](Purplesecurity_logo.png) ![](Protektnet.png)
-![](01_-_Tropicode_-_Logo_-_Color_-_Horizontal.png)
-![](Techgarage_logo.png) ![](Pricetravel.jpg) ![](Optimiti.png)
-![](Cyberopsec_logo.jpg) ![](Papajohns_logo.png) ![](Bugcon_logo.png)
 
 ### Patrocinadores 2018
 
