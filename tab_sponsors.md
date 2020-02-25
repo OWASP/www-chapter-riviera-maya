@@ -16,7 +16,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 <tr>
 <td>
 
-<a href="https://www..com"><img src="assets/images/VeraCode_logo.png" alt="Google"/></a>
+<a href="https://www.google.com"><img src="assets/images/sponsors/2017/logo_google.png" alt="Google"/></a>
 
 </td>
 <td>
