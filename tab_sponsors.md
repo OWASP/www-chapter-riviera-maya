@@ -14,7 +14,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
 <table cellpadding="15" cellspacing="0">
 <tr>
-<td>
+<td width="30%">
 
 <a href="https://www.google.com"><img src="assets/images/sponsors/2017/logo_google.png" alt="Google"/></a>
 
