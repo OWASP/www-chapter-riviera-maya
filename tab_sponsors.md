@@ -19,13 +19,13 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 <a href="https://www.google.com"><img src="assets/images/sponsors/2017/logo_google.png" alt="Google"/></a>
 
 </td>
-<td>
+<td width="30%">
 
 <a href="https://www.websec.mx"><img src="assets/images/sponsors/2017/logo_websec.png" alt="Websec"/></a>
 
 </td>
-<td>
-  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="Scitum"/></a>
+<td width="30%">
+  <a href="https://www.homedepot.com.mx"><img src="assets/images/sponsors/2017/logo_thd.jpg" alt="HomeDepot Mexico"/></a>
 
 
 </td>
