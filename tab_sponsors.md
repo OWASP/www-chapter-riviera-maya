@@ -130,7 +130,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
 </td>
 <td width="30%">
-  <a href="https://www.dragonjar.org/"><img src="assets/images/sponsors/2018/logo_dragonjar.jpg" alt="DragonJAR"/></a>
+  <a href="https://www.dragonjar.org/"><img src="assets/images/sponsors/2018/logo_dragonjar.png" alt="DragonJAR"/></a>
 </td>
 <td width="30%">
   <a href="https://papajohns.com.mx/home"><img src="assets/images/sponsors/2018/logo_papajohns.png" alt="Papa Johns"/></a>
@@ -140,7 +140,6 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 <tr>
 <td width="30%">
   <a href="https://www.tacitknowledge.com/"><img src="assets/images/sponsors/2018/logo_tacitknowledge.png" alt="Tacit Knowledge"/></a>
-
 </td>
 
 <td width="30%">
@@ -151,40 +150,3 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
 ### Patrocinadores 2019
 
-<table cellpadding="15" cellspacing="0">
-<tr>
-<td>
-
-<a href="https://www..com"><img src="assets/images/VeraCode_logo.png" alt="Google"/></a>
-
-</td>
-<td>
-
-<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="Websec"/></a>
-
-</td>
-<td>
-  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="Scitum"/></a>
-
-
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="Pricetravel"/></a>
-
-</td>
-<td>
-<img src="assets/images/GDS_LOGO_SMALL.jpg" alt=""/>
-
-</td>
-<td>
-<img src="assets/images/Synack_Logo.jpg" alt="Synack Logo"/>
-
-</td>
-</tr>
-</table>
-
-
-![](Logo_websec.jpg) ![](Purplesecurity_logo.png)
-![](Hackersclothing_logo_400x400.jpg)
