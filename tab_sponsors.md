@@ -107,7 +107,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
   <a href="https://scitum.com.mx/"><img src="assets/images/sponsors/2018/logo_scitum.jpg" alt="Scitum"/></a>
 </td>
 <td width="30%">
-  <a href="https://www.ohkasystems.com/"><img src="assets/images/sponsors/2018/logo_ohka.png" alt="Ohka Systems"/>
+  <a href="https://www.ohkasystems.com/"><img src="assets/images/sponsors/2018/logo_ohka.png" alt="Ohka Systems"/></a>
 </td>
 </tr>
 
