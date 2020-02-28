@@ -238,7 +238,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
 <tr>
 <td width="30%">
-  <a href="https://www.facebook.com/nativohuichol/"><img src="assets/images/sponsors/2019/logo_nativo.jpg" alt="TPX"/></a>
+  <a href="https://tpx.mx/"><img src="assets/images/sponsors/2019/logo_tpx.png" alt="TPX"/></a>
 </td>
 
 <td width="30%">
