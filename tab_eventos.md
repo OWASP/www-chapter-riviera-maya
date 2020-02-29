@@ -19,5 +19,6 @@ tags: eventos
 #### OWASP LATAM Tour Mexico
 
 Somos orgullosos organizadores de OWASP LATAM Tour Mexico desde el año 2017. Este evento reune a profesionales y entusiastas de la industría de todo México para sesiones de charlas y talleres impartidas por reconocidos profesionales de todo el mundo. 
-* [OWASP Latam Tour 2018 Mexico en Cancun](https://www.youtube.com/watch?v=2ZpvVAzjHYY).
-* [OWASP Latam Tour 2019 Mexico en Cozumel](https://www.youtube.com/watch?v=LDQyjAhumOo).
+* [OWASP Latam Tour 2018 México en Cancun](https://www.youtube.com/watch?v=2ZpvVAzjHYY).
+* [OWASP Latam Tour 2019 México en Cozumel](https://www.youtube.com/watch?v=LDQyjAhumOo).
+* [OWASP Latam Tour 2020 México en Cozumel](#).
