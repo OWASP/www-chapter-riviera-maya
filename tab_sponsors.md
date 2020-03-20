@@ -16,7 +16,7 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 <tr>
 <td width="30%">
 
-<a href="https://www.cozumel.gob.mx"><img src="assets/images/sponsors/2019/logo_cozumel.jpg" alt="Gobierno Municipal de Cozumel"/></a>
+<a href="https://www.cozumel.gob.mx"><img src="assets/images/sponsors/2019/logo_cozumel.PNG" alt="Gobierno Municipal de Cozumel"/></a>
 
 </td>
 <td width="30%">
@@ -108,6 +108,12 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
 <td width="30%">
   <a href="https://winjet.mx/"><img src="assets/images/sponsors/2019/logo_winjet.jpg" alt="Winjet"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+  <a href="http://www.outkubus.com/"><img src="assets/images/sponsors/2019/logo_outkubus.png" alt="Outkubus Security"/></a>
 </td>
 </tr>
 </table>
