@@ -112,6 +112,9 @@ Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 </tr>
 
 <tr>
+  <td width="30%">
+  <a href="http://hackerops.com/"><img src="assets/images/sponsors/2019/hackerops_logo.png" alt="HackerOps"/></a>
+</td>
 <td width="30%">
   <a href="http://www.outkubus.com/"><img src="assets/images/sponsors/2019/logo_outkubus.png" alt="Outkubus Security"/></a>
 </td>
