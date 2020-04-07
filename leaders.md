@@ -1,5 +1,5 @@
 ### Leaders
 
-* [Paulino Paulino Calderon](mailto:paulino.calderonpale@owasp.org)
+* [Paulino Calderon](mailto:paulino.calderonpale@owasp.org)
 * [Ismael Jimenez](mailto:tuxtter@gmail.com)
 
