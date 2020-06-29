@@ -8,6 +8,9 @@ tags: eventos
 
 ## Eventos
 
+### Remotas
+* Meeting remoto el 31 de junio del 2020 para coordinar evento virtual alrededor de badges electrónicos.
+
 ### Meetings
 
 #### Cancun
