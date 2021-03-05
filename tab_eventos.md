@@ -11,6 +11,7 @@ tags: eventos
 ### Meetings
 
 #### Remotas
+* Meeting remoto el 29 de febrero del 2021.
 * Meeting remoto el 31 de junio del 2020 para coordinar evento virtual alrededor de badges electrónicos.
 
 #### Cancun
