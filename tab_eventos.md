@@ -11,6 +11,7 @@ tags: eventos
 ### Meetings
 
 #### Remotas
+* Meeting remoto el 28 de marzo del 2021. Registro: https://www.meetup.com/es-ES/owasp-riviera-maya-meetup-group/events/277072259/
 * Meeting remoto el 29 de febrero del 2021.
 * Meeting remoto el 31 de junio del 2020 para coordinar evento virtual alrededor de badges electrónicos.
 
