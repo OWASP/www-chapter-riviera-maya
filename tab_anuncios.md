@@ -6,6 +6,10 @@ order: 1
 tags: anuncios
 ---
 
+Badges electrónicos de OWASP LATAM TOUR 2020 MEXICO
+----------------------------
+Contactanos para recibir sin costo un badge electrónico y acompañarnos en las actividades virtuales que realizaremos alrededor del badge.
+
 OWASP LATAM TOUR 2020 MEXICO
 ----------------------------
 Debido a los acontecimientos recientes afectando la salud pública relacionados con el virus COVID-19 que ahora es categorizado como pandemia, hemos estado analizado las posibles acciones de respuesta y sus repercusiones detalladamente en lo que concierne a OWASP LATAM Tour 2020 México.
