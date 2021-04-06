@@ -17,3 +17,8 @@ OWASP (Open Web Application Security Project) es una organización mundial sin f
 OWASP en español en Youtube
 -------------------
 Subscribete al [canal oficial de contenido en español de OWASP](https://www.youtube.com/channel/UCEXEarSUAfgcll1uzxcNGUA/).
+
+
+Próximos eventos
+-------------------
+{% include chapter_events.html group=page.meetup-group %}
