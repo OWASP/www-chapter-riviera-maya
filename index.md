@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Riviera Maya
 tags: sponsors, eventos, anuncios
 region: North America
-
+meetup-group: owasp-riviera-maya
 ---
 
 Nuestro capítulo
