@@ -21,4 +21,5 @@ Subscribete al [canal oficial de contenido en español de OWASP](https://www.you
 
 Próximos eventos
 -------------------
+
 {% include chapter_events.html group=page.meetup-group %}
