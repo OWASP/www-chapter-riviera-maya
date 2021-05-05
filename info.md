@@ -1,4 +1,4 @@
 ### OWASP Riviera Maya on Social Media
-* [Meetup](https://www.meetup.com/owasp-riviera-maya-meetup-group/)
+* [Meetup](https://www.meetup.com/owasp-riviera-maya/)
 * [Twitter](https://twitter.com/owasp_riviera)
 * [Facebook](https://www.facebook.com/OwaspRivieraMaya/)
