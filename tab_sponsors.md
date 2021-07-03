@@ -10,6 +10,26 @@ tags: sponsors
 
 Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
 
+
+### Patrocinadores 2020
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td width="30%">
+
+<a href="https://electroniccats.com/"><img src="assets/images/sponsors/2020/electronic_cats.PNG" alt="Electronic Cats"/></a>
+
+</td>
+<td width="30%">
+
+
+</td>
+<td width="30%">
+
+
+</td>
+</tr>
+  </table>
+
 ### Patrocinadores 2019
 
 <table cellpadding="15" cellspacing="0">
