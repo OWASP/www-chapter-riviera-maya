@@ -8,7 +8,7 @@ tags: anuncios
 
 Badges electrónicos de OWASP LATAM TOUR 2020 MEXICO
 ----------------------------
-Contactanos para recibir sin costo un badge electrónico y acompañarnos en las actividades virtuales que realizaremos alrededor del badge.
+Contactanos para recibir sin costo un badge electrónico y acompañarnos en las actividades virtuales que realizaremos alrededor del badge. Más información aquí: https://twitter.com/owasp_riviera/status/1396857500775890947
 
 OWASP LATAM TOUR 2020 MEXICO
 ----------------------------
