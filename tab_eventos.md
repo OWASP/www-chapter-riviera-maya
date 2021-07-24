@@ -11,6 +11,7 @@ tags: eventos
 ### Meetings
 
 #### Remotas
+* Meeting remoto el 7 de agosto del 2021. [Registro](https://www.meetup.com/owasp-riviera-maya/events/279659208/)
 * Meeting remoto el 3 de julio del 2021. Registro: https://www.meetup.com/owasp-riviera-maya/events/279242076/
 * Meeting remoto el 28 de marzo del 2021. Registro: https://www.meetup.com/es-ES/owasp-riviera-maya-meetup-group/events/277072259/
 * Meeting remoto el 29 de febrero del 2021.
