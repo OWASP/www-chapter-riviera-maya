@@ -6,6 +6,10 @@ order: 1
 tags: anuncios
 ---
 
+OWASP LATAM TOUR 2023 MEXICO? [10/17/2022]
+----------------------------
+Ya han levantado restricciones en el país. Vamos a empezar a planear el evento del próximo año.
+
 Badges electrónicos de OWASP LATAM TOUR 2020 MEXICO
 ----------------------------
 Contactanos para recibir sin costo un badge electrónico y acompañarnos en las actividades virtuales que realizaremos alrededor del badge. Más información aquí: https://twitter.com/owasp_riviera/status/1396857500775890947
