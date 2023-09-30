@@ -18,7 +18,7 @@ tags: eventos
 * Meeting remoto el 31 de junio del 2020 para coordinar evento virtual alrededor de badges electrónicos.
 
 #### Cancun
-* Meeting el 30 de septiembre del 2023. Más información en el canal de Telegram.
+* Meeting el 30 de septiembre del 2023. Más información en el canal de Telegram. [Registro](https://www.meetup.com/owasp-riviera-maya/events/296444752/)
   
 #### Cozumel
 
