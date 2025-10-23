@@ -1,0 +1,28 @@
+community:
+  - name: chapter-rivieramaya
+    platform: slack
+    url: https://owasp.slack.com/archives/C13M33CJY
+leaders:
+  - name: Paulino Calderon
+    email: paulino.calderonpale@owasp.org
+    github: cldrn
+  - name: Ismael Jimenez
+    email: ismael.jimenez@owasp.org
+location:
+  country: Mexico
+  country_code: MX
+  region: Quintana Roo
+  city: Playa del Carmen
+  latitude: 20.621933
+  longitude: -87.0757075
+meetup_group: owasp-riviera-maya
+name: OWASP Riviera Maya
+repositories:
+  - name: www-chapter-riviera-maya
+    url: https://github.com/OWASP/www-chapter-riviera-maya
+    description: OWASP Foundation Web Repository for Riviera Maya
+tags:
+  - sponsors
+  - eventos
+  - anuncios
+website: https://owasp.org/www-chapter-riviera-maya
