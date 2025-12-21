@@ -11,7 +11,7 @@ region: Latin America
 ---
 ## OWASP Riviera Maya
 
-[OWASP](http://owasp.org) (Open Web Application Security Project) es una
+[OWASP](http://owasp.org) (Open Worldwide Application Security Project) es una
 organización mundial sin fines de lucro dedicada a mejorar la seguridad
 de software. Nuestra misión es darle visibilidad a la seguridad de
 software para que individuos y organizaciones tomen decisiones
